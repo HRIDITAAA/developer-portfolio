@@ -73,7 +73,7 @@
 
 .content-name {
     font-size: 85px;
-    font-weight: 800px;
+    font-weight: 700;
 }
 
 .dsc {
@@ -85,7 +85,7 @@
     margin: 0 20px 0 0;
 }
 
-.box {
+.style {
     padding: 10px 20px;
     border-color: #FD6E0A;
     border-radius: 5px;
