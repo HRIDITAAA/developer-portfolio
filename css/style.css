@@ -92,3 +92,41 @@
     font-size: 20px;
     font-weight: 100px;
 }
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+main section {
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+.about {
+    padding: 100px;
+    border-radius: 10px;
+}
+
+.cotain-box {
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px 15px;
+}
+
+.det {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.det div {
+    line-height: 0.5;
+}
+
+.do {
+    margin: 0 200px 0 200px;
+    justify-content: space-between max-width: 1q00px;
+    text-align: center;
+}
